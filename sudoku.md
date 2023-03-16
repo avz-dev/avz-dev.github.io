@@ -1,6 +1,7 @@
 ---
 title: Sudoku Solver
 description: By Andrew Valdez
+name: Andrew Valdez
 layout: default
 filename: sudoku.md
 --- 
