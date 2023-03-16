@@ -1,10 +1,15 @@
+---
+title: Sudoku Solver
+description: By Andrew Valdez
+layout: default
+filename: sudoku.md
+--- 
 ## Description
 A recursive backtracking algorithm to solve a given starting sudoku board. Invalid input and unsolvable boards are flagged as such, highlighting the grid cells of issue.
 
 ## How to use
 Run `main.py` which will launch the following GUI:
 ![figure 1](resources/gui.png)
-<img src="https://avz-dev.github.io/resources/gui.png">
 Enter a starting sudoku board.
 ![figure 2](resources/valid_input.png)
 Clicking on the `Clear` button will clear all user input. 
@@ -19,4 +24,4 @@ Clicking on `Solve` will result in the following possibilities:
 ![figure 6](resources/solution.png)
 Clicking the `Clear` button will clear the input and allow a new starting sudoku board to be entered.
 
-<a href="https://github.com/avz-dev/scrabble">GitHub Repository.</a>
+<a href="https://github.com/avz-dev/sudoku-solver">GitHub Repository.</a>
