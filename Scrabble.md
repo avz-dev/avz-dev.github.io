@@ -3,15 +3,7 @@ title: Scrabble
 layout: page
 filename: Scrabble.md
 --- 
-<style>
-.body {
-  background-color: black;
-  color: white;
-  text-align: center;
-}
-</style>
 
-<div class="body">
 # Scrabble
 By Andrew Valdez 
 
@@ -68,4 +60,3 @@ Plays word with the highest possible score using recursive backtracking.
 Initializes Display and starts game.
 ### MainSolver
 Reads in dictionary and input file, calls Solver to find best word, and produces output file.
-</div>
