@@ -16,7 +16,7 @@ By Andrew Valdez
 ## How to Play
 
 The player starts the game by either selecting a starting square or selecting `Play` to end their turn.
-<img src="https://avz-dev.github.io/resources/starting-tile.png" width="800" height="800">
+<img src="https://avz-dev.github.io/resources/starting-tile.png">
   
 The player may also selet `Shuffle` at any time to randomly rearrange the order of their unplayed tiles.
 <img src="https://avz-dev.github.io/resources/shuffle.png" width="800" height="800">
