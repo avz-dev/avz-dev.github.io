@@ -1,12 +1,9 @@
 ---
 title: Scrabble
+description: By Andrew Valdez
 layout: default
 filename: Scrabble.md
 --- 
-
-# Scrabble
-By Andrew Valdez 
-
 ## How to Run
 <a href="https://github.com/avz-dev/scrabble/raw/main/scrabble.jar">Scrabble</a> 
 
