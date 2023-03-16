@@ -3,11 +3,13 @@ title: Scrabble
 layout: template
 filename: Scrabble.md
 --- 
+<style>
 .body {
   border: 5px outset red;
   background-color: lightblue;    
   text-align: center;
 }
+</style>
 
 <div class="body">
 # Scrabble
