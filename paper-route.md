@@ -31,7 +31,7 @@ Purchasing the next level will change the season, introducing new obstacles and 
 ![figure 11](resources/winter-level.png)
 ![figure 12](resources/winter-shop.png)
 Once the final level has been purchased, the player will have earned enough to end the game.
-![figure 13](resources/end.png)
+![figure 13](resources/end-game.png)
 
 ## Contributions
 
