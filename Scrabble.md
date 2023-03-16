@@ -1,6 +1,6 @@
 ---
 title: Scrabble
-layout: page
+layout: default
 filename: Scrabble.md
 --- 
 
