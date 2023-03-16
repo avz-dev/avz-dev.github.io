@@ -2,9 +2,6 @@
 title: Scrabble
 layout: page
 filename: Scrabble.md
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme
 --- 
 
 # Scrabble
@@ -12,6 +9,7 @@ By Andrew Valdez
 
 ## How to Run
 <a href="https://github.com/avz-dev/scrabble/raw/main/scrabble.jar">Scrabble</a> 
+
 `java -jar scrabble.jar`
 
 
