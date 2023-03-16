@@ -11,7 +11,7 @@ plugins:
 By Andrew Valdez 
 
 ## How to Run
-<a href="https://github.com/avz-dev/scrabble/blob/main/scrabble.jar">Solver</a>     
+<a href="https://github.com/avz-dev/scrabble/raw/main/scrabble.jar">Solver</a>     
 `java -jar solver.jar dictionary.txt < input.txt > output.txt`
 
 Scrabble   
