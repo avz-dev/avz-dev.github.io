@@ -43,24 +43,3 @@ The participant with the highest score is declared the winner at the end of the 
 
 The game ends when the both solver and player have no valid plays. (Note: player must end their turn)
 <img src="https://avz-dev.github.io/resources/end.png" width="800" height="800">
-
-
-## Classes
-
-### Trie Data Structure
-Reads in dictionary and builds trie data structure
-### Display
-Handles all GUI elements and feeds player input into Player. Alternates turns between players.
-### Board
-Holds square objects with multiplier information, stores tiles placed on board.
-### Tiles
-Holds tile data such as letter, points, and blank status.
-### Square
-Holds board space data such as multipliers, anchor status, and tile.
-### Player:
-Ability to play word, check word validity, return tiles to rack if invalid. 
-Keeps track of overall score and current word score.
-### Solver
-Plays word with the highest possible score using recursive backtracking.
-### Main
-Initializes Display and starts game.
