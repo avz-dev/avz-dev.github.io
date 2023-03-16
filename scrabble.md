@@ -1,5 +1,6 @@
 ---
 title: Scrabble
+name: Andrew Valdez
 description: By Andrew Valdez
 layout: default
 filename: scrabble.md
