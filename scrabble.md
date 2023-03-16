@@ -2,7 +2,7 @@
 title: Scrabble
 description: By Andrew Valdez
 layout: default
-filename: Scrabble.md
+filename: scrabble.md
 --- 
 ## Desctiption
 A game of Scrabble against an algorithm that utilizes a trie data structure to generate the highest possible scoring word given a set of tiles and a configuration of tiles on the board.
