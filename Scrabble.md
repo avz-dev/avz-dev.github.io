@@ -1,3 +1,9 @@
+---
+title: Scrabble
+layout: template
+filename: Scrabble.md
+--- 
+
 # Scrabble
 By Andrew Valdez 
 
