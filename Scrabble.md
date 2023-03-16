@@ -3,7 +3,13 @@ title: Scrabble
 layout: template
 filename: Scrabble.md
 --- 
+.body {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
 
+<div class="body">
 # Scrabble
 By Andrew Valdez 
 
@@ -18,8 +24,7 @@ Scrabble
 ## How to Play
 
 The player starts the game by either selecting a starting square or selecting `Play` to end their turn.
-![figure 1](resources/starting-tile.png)
-<img src="https://github.com/avz-dev/avz-dev.github.io/blob/main/resources/starting-tile.png" width="200" height="200">
+<img src="https://github.com/avz-dev/avz-dev.github.io/blob/main/resources/starting-tile.png" width="500" height="500">
 The player may also selet `Shuffle` at any time to randomly rearrange the order of their unplayed tiles.
 ![figure 2](resources/shuffle.png)
 Once a tile is selected, the player must select a direction in which to build the word.
@@ -60,3 +65,4 @@ Plays word with the highest possible score using recursive backtracking.
 Initializes Display and starts game.
 ### MainSolver
 Reads in dictionary and input file, calls Solver to find best word, and produces output file.
+</div>
