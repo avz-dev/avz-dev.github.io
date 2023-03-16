@@ -1,12 +1,12 @@
 ---
 title: Scrabble
-layout: template
+layout: page
 filename: Scrabble.md
 --- 
 <style>
 .body {
-  border: 5px outset red;
-  background-color: lightblue;    
+  background-color: black;
+  color: white;
   text-align: center;
 }
 </style>
