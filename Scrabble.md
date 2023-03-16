@@ -25,6 +25,7 @@ Scrabble
 
 The player starts the game by either selecting a starting square or selecting `Play` to end their turn.
 <img src="https://github.com/avz-dev/avz-dev.github.io/blob/main/resources/starting-tile.png" width="500" height="500">
+  
 The player may also selet `Shuffle` at any time to randomly rearrange the order of their unplayed tiles.
 ![figure 2](resources/shuffle.png)
 Once a tile is selected, the player must select a direction in which to build the word.
