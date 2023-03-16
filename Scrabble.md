@@ -18,7 +18,8 @@ Scrabble
 ## How to Play
 
 The player starts the game by either selecting a starting square or selecting `Play` to end their turn.
-![figure 1](resources/starting-tile.png | width=10)
+![figure 1](resources/starting-tile.png)
+<img src="resources/starting-tile.jpg" width="200" height="200">
 The player may also selet `Shuffle` at any time to randomly rearrange the order of their unplayed tiles.
 ![figure 2](resources/shuffle.png)
 Once a tile is selected, the player must select a direction in which to build the word.
