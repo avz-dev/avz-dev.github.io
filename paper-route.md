@@ -1,9 +1,17 @@
-# Paper Route
+---
+title: Paper Route
+description: By Andrew Valdez, Gale Scriven, & Chris DeBonis
+layout: default
+filename: paper-route.md
+--- 
+## Description
+In this retro, arcade-style side scroller, you play a newspaper delivery expert who's trying to make enough money to afford the latest video game cartridge, dubiously titled: Paper Route.
 
-By Andrew Valdez, Gale Scriven, & Chris DeBonis
+The game is set in the fictional "Land of Enchantment", where you spend your days avoiding potholes and construction cones on the perpetually under-construction roads, attempting to make the most possible money by landing the papers just right (tips, anyone?). 
+
+There is continual temptation to purchase a new, fancier bike, in order to turn a higher profit through higher efficiency, but beware, that money has to come from somewhere. Will you be able to afford the Paper Route game cartridge by the time Winter ends?
 
 ## How to Play
-
 Run `PaperRoute.exe` for Windows or `PaperRouteMac.exe` for Mac, both can be found within the **Builds** folder in the **Windows** and **Mac** folders respectively.
 ![figure 1](resources/start-menu.png)
 Selecting **Quit** button will terminate the application. Selecting **Start** will begin the first run of the game.
@@ -40,3 +48,6 @@ Once the final level has been purchased, the player will have earned enough to e
 **Gale** served as an artist on the game. Gale created the character sprite as well as all of the obstacle sprites.
 
 **Chris** served as the producer, preparing game design documents and presentation. Chris also compiled free-use sounds to be used in the game.
+
+
+<a href="https://github.com/avz-dev/paper-route">GitHub Repository.</a> 
