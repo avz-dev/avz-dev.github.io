@@ -11,10 +11,7 @@ plugins:
 By Andrew Valdez 
 
 ## How to Run
-<a href="https://github.com/avz-dev/scrabble/raw/main/scrabble.jar">Solver</a>     
-`java -jar solver.jar dictionary.txt < input.txt > output.txt`
-
-Scrabble   
+<a href="https://github.com/avz-dev/scrabble/raw/main/scrabble.jar">Scrabble</a> 
 `java -jar scrabble.jar`
 
 
@@ -67,5 +64,3 @@ Keeps track of overall score and current word score.
 Plays word with the highest possible score using recursive backtracking.
 ### Main
 Initializes Display and starts game.
-### MainSolver
-Reads in dictionary and input file, calls Solver to find best word, and produces output file.
