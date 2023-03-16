@@ -1,5 +1,6 @@
 ---
 title: Paper Route
+name: Andrew Valdez
 description: By Andrew Valdez, Gale Scriven, & Chris DeBonis
 layout: default
 filename: paper-route.md
