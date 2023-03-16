@@ -4,11 +4,8 @@ description: By Andrew Valdez
 layout: default
 filename: Scrabble.md
 --- 
-## How to Run
-<a href="https://github.com/avz-dev/scrabble/raw/main/scrabble.jar">Scrabble</a> 
-
-`java -jar scrabble.jar`
-
+## Desctiption
+A game of Scrabble against an algorithm that utilizes a trie data structure to generate the highest possible scoring word given a set of tiles and a configuration of tiles on the board.
 
 ## How to Play
 
@@ -38,3 +35,5 @@ The participant with the highest score is declared the winner at the end of the 
 
 The game ends when the both solver and player have no valid plays. (Note: player must end their turn)
 <img src="https://avz-dev.github.io/resources/end.png">
+
+<a href="https://github.com/avz-dev/scrabble">GitHub Repository.</a> 
