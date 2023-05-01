@@ -44,7 +44,7 @@ Once the final level has been purchased, the player will have earned enough to e
 
 ## Contributions
 
-**Andrew** served as the lead programmer, writing all of the game code. Additionally, Andrew also created much of the art in the game including all backgrounds, buildings, UI elements, and the dollar bill sprite.
+**Andrew** served as the lead programmer, writing all of the game code. Additionally, Andrew also created much of the art in the game including all backgrounds, buildings, & UI elements.
 
 **Gale** served as an artist on the game. Gale created the character sprite as well as all of the obstacle sprites.
 
